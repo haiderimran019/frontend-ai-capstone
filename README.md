@@ -4,7 +4,7 @@
 
 ## Overview
 
-The project idea and requirements will be added here after they are finalized.
+This is the single repository for my Frontend AI Engineering capstone. I will choose and document the project idea in a later assignment, then build on this repository throughout the track.
 
 ## Planned stack
 
