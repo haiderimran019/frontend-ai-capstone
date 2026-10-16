@@ -1,23 +1,33 @@
 # Capstone Project
 
-> Work in progress. This repository is being prepared for the Flyrank AI internship capstone.
+This is the single repository for my Frontend AI Engineering capstone. The app currently contains a small account-settings form used to compare two AI-assisted implementation workflows. Later assignments will build on this repository.
 
 ## Overview
 
-This is the single repository for my Frontend AI Engineering capstone. I will choose and document the project idea in a later assignment, then build on this repository throughout the track.
+The form demonstrates local validation and accessible feedback. It does not save data to a server.
 
-## Planned stack
+## Stack
 
 - React
 - TypeScript
 - Vite
 
-This is the planned stack for the project setup. The application has not been scaffolded yet.
+The project uses React, TypeScript, and Vite.
 
 ## Status
 
-Repository setup is in progress.
+Assignment 3 compares a vague-prompt implementation with a specification-driven implementation. See `WORKFLOW.md` on the precise-round branch.
 
 ## Getting started
 
-Setup instructions will be added when the application is scaffolded.
+```sh
+npm install
+npm run dev
+```
+
+Run the validation tests and production build with:
+
+```sh
+npm test
+npm run build
+```
